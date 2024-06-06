@@ -1,0 +1,18 @@
+h1{
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-decoration-line: overline;
+    text-decoration-color: red;
+}
+
+.hidden{
+    display: none !important;
+}
+
+.selected{
+    background-color: rgb(0, 255, 81);
+}
+
+.tr-item:hover{
+    cursor: pointer;
+    background-color: rgb(197, 255, 240);
+}
